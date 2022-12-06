@@ -5,10 +5,9 @@
 <body>
 
 <h1>My Web Page</h1>
-<button type="button" onclick="clickHandler()">Click Me!</button>
+<button type="button">Click Me!</button>
   
  <script>
-    function clickHandler() {
   
 var AF_URL_SCHEME = '(https:\\/\\/)(([^\\.][^\\.]+).)(.*\\/)(.*)';
 var VALID_AF_URL_PARTS_LENGTH = 5;
@@ -2293,7 +2292,7 @@ QRCode();
     version: formatVersion
   };
 })();
-                                                                                                                                                   }
+                                                                                                                                                 
                                                                                                                                                    </script>                                                                                                                                                   
                                                                                                                                                    
 
